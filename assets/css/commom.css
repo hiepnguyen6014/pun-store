@@ -235,3 +235,16 @@ template {
     /* Non-prefixed version, currently
                                     supported by Chrome, Edge, Opera and Firefox */
 }
+
+.button {
+    font-size: 1.6rem;
+    font-weight: 900;
+    text-decoration: none;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 2px;
+}
+
+.button:hover {
+    opacity: 0.6;
+}
